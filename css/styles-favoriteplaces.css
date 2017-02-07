@@ -1,0 +1,33 @@
+h1 {
+  color: white;
+  font-size: 70px;
+  text-align: center;
+  margin-right: 30px;
+  text-shadow: 7px 7px 20px green;
+}
+
+body {
+  background-image: url(https://www.islonline.org/wp-content/uploads/2014/03/costa-rica.jpg);
+  background-size: cover;;
+  background-repeat: no-repeat;
+  color: white;
+  margin-left: 30px;
+}
+
+li {
+  font-size: 20px;
+}
+
+p {
+  font-size: 16px;
+}
+
+h3 {
+  background-color: gray;
+  opacity: .7;
+  margin-right: 30px;
+}
+
+a {
+  color: yellow;
+}
